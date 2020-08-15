@@ -1,4 +1,4 @@
-## React Hook & Redux || Personal Portfolio
+## Personal Portfolio Web App || React Hook & Redux
 ##### How to create personal Portfolio web app, in React & Redux. This Portfolio Web App will help you learn from the scratch.
 <img src="./images/portfolio-home.png" width="500">
 <img src="./images/portfolio-contact.png" width="500">
