@@ -1,0 +1,27 @@
+.menu{
+    background: white;
+    -webkit-box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset 0 -1px 0 0 #dadce0;
+    -moz-box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset 0 -1px 0 0 #dadce0;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset 0 -1px 0 0 #dadce0;
+}
+.navbar-nav {
+    flex-direction: row;
+}
+.nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+}
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+.menu a {
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+    background-color: transparent;
+}
+.nav-link {
+    display: block;
+    padding: .8rem 1rem;
+}
